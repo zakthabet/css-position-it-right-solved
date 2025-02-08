@@ -35,41 +35,41 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
-- [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
-- [ ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a .txt file with the Github repo url.
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] This Assignment is NOT tested. You can use all the desired creativity!
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] The project's file/folder structure should NOT be edited!
+- [x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
+- [x] VSCode IDE MUST have 0 problems listed
+- [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [x] The code MUST be formatted with Prettier.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
 
 `For the Robot Face exercise:`
 
-- [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
-- [ ] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/fancy-robot.html`
-  - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
-  - [ ] It should be horizontally centered to the viewport width and height.
-  - [ ] The container should not overlap the header section.
-- [ ] Style the shape of the robot face to follow the requirements:
-  - [ ] Should be a simple shape (square, circle, oval).
-  - [ ] Should have a border of any style, color and width.
-  - [ ] The face parts should NOT touch the border in their static positions.
-  - [ ] The corners of the face shape should NOT be a straight (right) angle.
-- [ ] Create unique random shapes for the following internal elements of the face:
-  - [ ] Left eye
-  - [ ] Right eye
-  - [ ] Nose
-  - [ ] Mouth
-  - [ ] Teeth/tooth
+- [x] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
+- [x] Edit the following files to solve that part of the assignment:
+  - [x] html: `/pages/fancy-robot.html`
+  - [x] css: `/css/fancy-robot.css`
+- [x] The container for the robot face (face shape) should be positioned/aligned following the rules:
+  - [x] It should be horizontally centered to the viewport width and height.
+  - [x] The container should not overlap the header section.
+- [ x] Style the shape of the robot face to follow the requirements:
+  - [x] Should be a simple shape (square, circle, oval).
+  - [x] Should have a border of any style, color and width.
+  - [x] The face parts should NOT touch the border in their static positions.
+  - [x] The corners of the face shape should NOT be a straight (right) angle.
+- [x] Create unique random shapes for the following internal elements of the face:
+  - [x] Left eye
+  - [x] Right eye
+  - [x] Nose
+  - [x] Mouth
+  - [x] Teeth/tooth
   - [ ] **!!!Optional** Add any other part you want.
 - [ ] Create unique random shapes for the following external elements of the face:
   - [ ] Hair style
@@ -96,11 +96,11 @@ This assignment should prove that a student is able to:
 
 `For the Legal Page exercise`
 
-- [ ] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
-- [ ] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/legal-page.html`
-  - [ ] css: `/css/legal-page.css`
-- [ ] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.
-- [ ] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
-- [ ] The section label should stay fixed in its parent while the user is scrolling through the current section.
-- [ ] The content should not get obscured by any of the containers at the top and bottom of the page.
+- [x] Watch the [Legal Page INTRO video](https://www.loom.com/share/3c655c8a97ce4783a4698d7968c03c33?sid=b776b29f-cecb-4cc7-8663-7c3f1722f190).
+- [x] Edit the following files to solve that part of the assignment:
+  - [x] html: `/pages/legal-page.html`
+  - [x] css: `/css/legal-page.css`
+- [x] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.
+- [x] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
+- [x] The section label should stay fixed in its parent while the user is scrolling through the current section.
+- [x] The content should not get obscured by any of the containers at the top and bottom of the page.
